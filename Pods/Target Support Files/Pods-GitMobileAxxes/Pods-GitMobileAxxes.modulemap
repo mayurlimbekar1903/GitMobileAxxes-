@@ -1,0 +1,6 @@
+framework module Pods_GitMobileAxxes {
+  umbrella header "Pods-GitMobileAxxes-umbrella.h"
+
+  export *
+  module * { export * }
+}
